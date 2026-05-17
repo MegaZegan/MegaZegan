@@ -12,6 +12,14 @@ Cybersecurity-focused developer building practical defensive tooling for SOC wor
 
 ## Featured Security Projects
 
+### [VaultWatch-Terminal](https://github.com/MegaZegan/VaultWatch-Terminal)
+
+Fallout/Pip-Boy inspired terminal project for defensive security triage.
+
+- Analyzes local JSONL/JSON/CSV telemetry for suspicious auth, DNS, outbound traffic, privilege changes, beacon timing, and secret-shaped values.
+- Renders a retro vault-terminal dashboard plus JSON and Markdown reports.
+- Built with Python, pytest, GitHub Actions, and safe local-only sample data.
+
 ### [TraceLens](https://github.com/MegaZegan/TraceLens)
 
 Defensive log triage CLI for suspicious authentication, firewall, DNS, and outbound traffic patterns.
