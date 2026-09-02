@@ -12,7 +12,7 @@
 
 </div>
 
-> I build local-first Android AI, practical blue-team tools, and interfaces with enough personality to make a terminal feel alive.
+> Mostly teaching tablets to think, terminals to glow, and suspicious logs to confess. Occasionally I give software a personality because plain buttons had their chance.
 
 ---
 
